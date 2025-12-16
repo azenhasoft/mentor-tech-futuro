@@ -1,73 +1,72 @@
-# Welcome to your Lovable project
+# 🎓 IA Mentor de Carreira: Descubra Seu Futuro em Tech
 
-## Project info
+## 📖 Contexto
+Este projeto foi desenvolvido como parte do desafio da DIO, aplicando o conceito de **Vibe Coding**.  
+A ideia é criar uma aplicação que funcione como um mentor de carreira em tecnologia, ajudando pessoas a descobrir caminhos profissionais, aprender sobre áreas de atuação e receber recomendações personalizadas de acordo com seus interesses e perfil.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 📝 Prompt Final (PRD)
 
-There are several ways of editing your application.
+### Contexto  
+Aplicação que funciona como um mentor de carreira em tecnologia, ajudando pessoas a descobrir caminhos profissionais, aprender sobre áreas de atuação e receber recomendações personalizadas de acordo com seus interesses e perfil.
 
-**Use Lovable**
+### Problema  
+Muitas pessoas têm interesse em entrar na área de tecnologia, mas não sabem por onde começar, quais carreiras existem ou quais habilidades precisam desenvolver. Falta orientação prática e acessível para iniciantes.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### Público-Alvo  
+- Estudantes e profissionais em transição de carreira.  
+- Pessoas curiosas sobre tecnologia, mas sem clareza sobre qual área seguir.  
+- Iniciantes que querem um guia simples e motivador.  
 
-Changes made via Lovable will be committed automatically to this repo.
+### Funcionalidades-Chave  
+1. Conversa interativa com o “Mentor de Carreira” para entender perfil e interesses.  
+2. Sugestão de trilhas de aprendizado (ex.: Frontend, Backend, Dados, UX, Segurança).  
+3. Recomendações de cursos, conteúdos e habilidades essenciais.  
+4. Simulação de cenários de carreira (ex.: “como seria trabalhar como cientista de dados”).  
+5. Relatórios personalizados com próximos passos e metas de aprendizado.  
 
-**Use your preferred IDE**
+### Entregável da IA  
+Gerar um plano de MVP com:  
+- Principais telas e fluxo de interação.  
+- Recursos necessários para implementar cada funcionalidade.  
+- Esboço de validação inicial (como medir se o app ajuda usuários a se orientar).  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Tom educativo, motivador e acessível, em português.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📊 Plano de MVP (Resumo)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Telas principais:** Onboarding, Chat Mentor, Trilhas de Aprendizado, Simulação de Carreira, Relatórios.  
+- **Recursos necessários:** NLP para interpretar perfil, algoritmo de recomendação de trilhas, banco de dados de cursos e carreiras, módulo de relatórios personalizados, agente mentor educativo.  
+- **Validação inicial:** Testes com 5–10 usuários iniciantes, métricas de clareza nas recomendações, feedback sobre motivação e utilidade.  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📸 Prints / Vídeos
+Inclua aqui imagens ou pequenos vídeos das interações com a IA (Copilot ou Lovable).  
+> Exemplo: captura de tela da conversa com o Mentor de Carreira ou do fluxo de telas.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 📌 Resumo do App
+Um mentor de carreira em tecnologia que conversa com o usuário, identifica interesses, sugere trilhas de aprendizado, simula cenários de carreira e entrega relatórios personalizados com próximos passos.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 💡 Reflexão sobre o Processo
+- **O que funcionou bem:** Estrutura clara do PRD e prompts objetivos facilitaram respostas úteis da IA.  
+- **O que não funcionou como esperado:** Limitações de interação exigiram foco nas perguntas mais estratégicas.  
+- **O que aprendi:** Quanto mais claro e intencional o prompt, mais próximo do ideal é o resultado da IA.  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🚀 Como Executar
+Este repositório é conceitual e não contém código-fonte do app.  
+O objetivo é demonstrar a aplicação prática de **Vibe Coding** e o uso de IA como parceira criativa no design de produtos digitais.
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 📚 Licença
+Este projeto é de uso educacional, criado para o desafio da DIO.
